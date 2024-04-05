@@ -13,7 +13,7 @@ public class BeispielSwing {
         // Erstellen des normalen Panels
         JPanel normalPanel = new JPanel();
         normalPanel.setBackground(Color.lightGray);
-        normalPanel.setPreferredSize(new Dimension(200, 150)); // Größe festlegen
+        normalPanel.setPreferredSize(new Dimension(300, 150)); // Größe festlegen
 
         // Erstellen des scrollbaren Panels
         JPanel scrollPanel = new JPanel();
